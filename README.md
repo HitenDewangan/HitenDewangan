@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @HitenDewangan
 - 👀 I enjoy coding, music, graphic designing and martial arts.
-- 🌱 I’m currently learning C, and Data Analysis Basics.
+- 🧩 Intermediate coder in Python.
+- 🪸 Learnt Fundamentals of C and Data Analysis with MS Excel.
+- 🌱 I’m currently learning Web Development, and Data Science with Python(Panda).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email: hitendewangan100j@gmail.com
 
