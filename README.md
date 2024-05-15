@@ -2,9 +2,11 @@
 - 
 - 👀 I enjoy coding, music, graphic designing and martial arts.
 - 🧩 Intermediate coder in Python.
+- I like Competitive Coding...
 - 
-- 🪸 Learnt Fundamentals of C and Data Analysis with MS Excel.
+- 🪸 Learnt Fundamentals of C, C++ and Data Analysis with MS Excel.
 - 🌱 I’m currently learning Web Development, and Data Science with Python(Pandas).
+- 
 - 
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me : Email: hitendewangan100j@gmail.com
