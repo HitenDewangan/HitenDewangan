@@ -12,6 +12,8 @@
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me : Email: hitendewangan100j@gmail.com
 
+- [![autocomplete](https://codeium.com/badges/user/hided/autocomplete)](https://codeium.com/profile/hided)
+
 
 <!---
 HitenDewangan/HitenDewangan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
